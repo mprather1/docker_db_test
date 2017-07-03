@@ -24,6 +24,7 @@
     "moment": "^2.18.1",
     "pg": "^6.1.2",
     "pg-promise": "^5.5.8",
+    "shintech-info": "^0.0.2",
     "shintech-init-db": "^0.0.2",
     "winston-color": "^1.0.0"
   },
@@ -48,5 +49,5 @@
   },
   "engines": {
     "node": ">=6"
-  }  
+  }
 }
